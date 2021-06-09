@@ -1,6 +1,6 @@
 #https://github.com/kc0bfv/autophugo
 #settings
-baseURL = "http://example.org/"
+baseURL = "https://stupefied-banach-d12ad4.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "autophugo"
