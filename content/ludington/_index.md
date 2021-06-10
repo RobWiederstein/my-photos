@@ -4,8 +4,11 @@ date: 2021-06-08T14:18:42-04:00
 albumthumb: "Ludington/photo00.jpg"
 draft: false
 resources:
-- src:  "2021-06-07-chocoloate-pothole.jpg"
 - src:  "2021-06-07-departure.jpg"
+  alt: Cat in the grass
+  phototitle: Grass cat
+  description: This cat stalks through the grass
+- src:  "2021-06-07-chocoloate-pothole.jpg"
 - src:  "2021-06-07-dog-passengers.jpg"
 - src:  "2021-06-07-house-of-flavors.jpg"
 - src:  "2021-06-07-illinois-windmills.jpg"
