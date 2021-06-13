@@ -9,6 +9,9 @@ draft: false
 #  description: A sub-title or description for the photo
 resources:
 - src: "ludington/2021-06-07-chocoloate-pothole.jpg"
+  alt: Image alternative and screen-reader text
+  phototitle: A title for the photo
+  description: A sub-title or description for the photo
 - src: "ludington/2021-06-07-departure.jpg"
 - src: "ludington/2021-06-07-dog-passengers.jpg"
 - src: "ludington/2021-06-07-house-of-flavors.jpg"
