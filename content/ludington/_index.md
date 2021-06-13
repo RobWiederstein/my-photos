@@ -10,8 +10,8 @@ draft: false
 resources:
 - src: "ludington/2021-06-07-chocoloate-pothole.jpg"
   alt: Image alternative and screen-reader text
-  phototitle: A title for the photo
-  description: A sub-title or description for the photo
+  phototitle: A treat for Cathy after a long drive
+  description: A dip of "chocolate pothole" at House of Flavors
 - src: "ludington/2021-06-07-departure.jpg"
 - src: "ludington/2021-06-07-dog-passengers.jpg"
 - src: "ludington/2021-06-07-house-of-flavors.jpg"
