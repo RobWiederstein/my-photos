@@ -2,7 +2,7 @@
 #settings
 baseURL = "https://stupefied-banach-d12ad4.netlify.app"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Wiederstein-Nestrick Trips"
 theme = "autophugo"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 [Author]
@@ -10,8 +10,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     email = "rob@robwiederstein.org"
 [params]
     # Meta
-    description = "Our adventures"
-    keywords = "rob cathy retirement trips fun"
+    description = "Cathy Nestrick and Rob Wiederstein retirement trips"
+    keywords = "rob cathy wiederstein nestrick retirement trips fun"
     #msvalidate = ""
     #googlesiteverification = ""
     #thumb_width = 480
