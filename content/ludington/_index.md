@@ -326,4 +326,27 @@ resources:
   alt: Sunset Park
   phototitle: Sunset Park Number 2
   description: Dogs and I took a walk while Cathy shopped
+- src: "ludington/2021-06-20-01-newport-state-park.jpg"
+  alt: Newport State Park
+  phototitle: Newport State Park Number 1
+- src: "ludington/2021-06-20-02-newport-state-park.jpg"
+  alt: Newport State Park
+  phototitle: Newport State Park Number 2
+- src: "ludington/2021-06-20-03-newport-state-park.jpg"
+  alt: Newport State Park
+  phototitle: Newport State Park Number 3
+- src: "ludington/2021-06-20-04-newport-state-park.jpg"
+  alt: Newport State Park
+  phototitle: Newport State Park Number 4
+- src: "ludington/2021-06-20-05-newport-state-park.jpg"
+  alt: Newport State Park
+  phototitle: Newport State Park Number 5
+- src: "ludington/2021-06-20-06-kick-ash-coffee.jpg"
+  alt: Kick Ash coffee
+  phototitle: Cathy and the Hat
+  description: Modeling her hat after drinks at the Viking Inn
+- src: "ludington/2021-06-21-01-homeward-bound.jpg"
+  alt: Cathy
+  phototitle: Homeward Bound at 6 am
+  description: Dogs have finally worn Cathy down and are riding in the front seat.
 ---
