@@ -9,121 +9,121 @@ draft: false
 #  description: A sub-title or description for the photo
 resources:
 - src: "key_west/2021-07-31_boarding_in_nashville.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: nashville airport terminal
+  phototitle: Waiting to board in Nashville
+  description: Chase attempting to entertain himself
 - src: "key_west/2021-07-31_bridge_over_ohio_to_nashville.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: family riding over Ohio River bridge
+  phototitle: family riding over Ohio River Bridge
+  description: We left at 7am for our 11:40 flight
 - src: "key_west/2021-07-31_euchre.png"
-  alt:
-  phototitle:
-  description:
+  alt: Chase playing euchre
+  phototitle: Chase is in the barn
+  description: Family playing a competitive game of euchre
 - src: "key_west/2021-07-31_leones_restaurant_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Italian restaurant in Venice Florida
+  phototitle: Leones Italian Restaurant
+  description: Restaurant close to Loris house
 - src: "key_west/2021-07-31_leones_restaurant_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: pizza
+  phototitle: Large pizza for dinner
+  description: We had some awesome pizza at Leones
 - src: "key_west/2021-07-31_red_tide_in_venice.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: dead fish on venice florida beach
+  phototitle: Red Tide on Venice Florida beach
+  description: The Tampa-Fort Meyers beaches have been hit hard by red tide in 2020
 - src: "key_west/2021-07-31_venice_pier_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: mermaid with person
+  phototitle: Colorful mermaids are everywhere in Venice Florida
+  description: Cathy had her hair colored for our trip
 - src: "key_west/2021-07-31_venice_pier_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: snowy egret on Venice Florida pier
+  phototitle: Snowy egret on Venice Pier
+  description: Pier was rehabbed in 2019.  You can fish a single line without a license.  There's a baitshop in the middle.
 - src: "key_west/2021-08-01_irmas_tacos_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: appetizer at irmas tacos
+  phototitle: Lunch at Irmas Tacos
+  description: We ordered the chips and sauce medley.  The refried beans were particularly good.
 - src: "key_west/2021-08-01_irmas_tacos_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: seafood Tacos
+  phototitle: Irmas seafood tacos
+  description: Fried oyster and grilled shrimp tacos
 - src: "key_west/2021-08-01_venice_golf_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: venice east golf driving range
+  phototitle: Venice East Golf Course driving range
+  description: This driving range was five minutes from Loris
 - src: "key_west/2021-08-01_venice_golf_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: three golfers
+  phototitle: Lori, Meg and Chase hit balls
+  description: Three golfers but only one expert
 - src: "key_west/2021-08-01_venice_golf_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: girl hitting golf ball
+  phototitle: Meg driving golf ball
+  description: Meg drives ball into the netherlands
 - src: "key_west/2021-08-02_ferry_ride_to_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: line for ferry
+  phototitle: Early morning line up
+  description: We drove for an hour and twenty minutes to board at 7 am
 - src: "key_west/2021-08-02_ferry_ride_to_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Key West Express
+  phototitle: Key West Express
+  description: Boat travels from Fort Meyers to Key West.  Round trip ticket for one adult cost $170.
 - src: "key_west/2021-08-02_ferry_ride_to_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: shrimp boats
+  phototitle: Shrimp boats
+  description: Shrimp boats were parked beside the Key West Express.
 - src: "key_west/2021-08-02_ferry_ride_to_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: wake of boat
+  phototitle: Key West Express Wake
+  description: The Key West Express catamaran travels at 40 mph
 - src: "key_west/2021-08-02_ferry_ride_to_05.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: boat deck
+  phototitle: Veterans sit here
+  description: Veteran travelers seemed to congregate on the second floor, rear deck on the starboard side to avoid the sun and light rains.
 - src: "key_west/2021-08-02_ferry_ride_to_06.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: top deck Key West Express
+  phototitle: Top deck Key West Express
+  description: Great view but sunny and hot
 - src: "key_west/2021-08-02_ferry_ride_to_07.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: people playing games on Key West Express
+  phototitle: Lots of game playing at out station
+  description: We sat at the top of the stairs on the second floor.  Scattegories was a favorite that morning.
 - src: "key_west/2021-08-02_golf_cart_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: sunset in key west
+  phototitle: Sunset in Key West
+  description: Lori and I went and rented a golf cart that night for some mobility.
 - src: "key_west/2021-08-02_key_west_beer.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: beer is my super power
+  phototitle: Beer is Loris Super Power
+  description: Beer is Lori's super power, and preferrably Coors Lite
 - src: "key_west/2021-08-02_key_west_harbor.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: family with Key West harbor in background
+  phototitle: Key West Harbor
+  description: 'Cayo Hueso' is the original Spanish name for the island of Key West.
 - src: "key_west/2021-08-02_mallory_square.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Mallory Square
+  phototitle: Meg at Mallory Square
+  description: Named for Florida Senator Stephen Mallory and former Secretary of the Navy of the Confederate States.
 - src: "key_west/2021-08-02_sloppy_joes_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Sloppy Joes in Key West
+  phototitle: Sloppy Joes
+  description: International flags displayed at Sloppy Joes
 - src: "key_west/2021-08-02_sloppy_joes_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Karri Daley
+  phototitle: Karri Daley Performing
+  description: Karri Daley Performing at Sloppy Joes
 - src: "key_west/2021-08-02_sloppy_joes_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Stage at Sloppy Joes
+  phototitle: Stage at Sloppy Joes
+  description: Great music by Karri Daley
 - src: "key_west/2021-08-02_sloppy_joes_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Family at Sloppy Joes
+  phototitle: Lunch at Sloppy Joes
+  description: Lunch at Sloppy Joes an old haunt of Earnest Hemmingway. It was placed on the National Registry of Historic Places in 2006.
 - src: "key_west/2021-08-02_sloppy_joes_05.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Sloppy Joe's Bar
+  phototitle: Sloppy Joe's Bar
+  description: Because the floor was always wet with melted ice, his patrons taunted Jose (Joe) with running a sloppy place. The place became known fondly as "Sloppy Joe’s".
 - src: "key_west/2021-08-02_southern_most_point.png"
   alt:
   phototitle:
