@@ -95,7 +95,7 @@ resources:
 - src: "key_west/2021-08-02_key_west_beer.jpg"
   alt: beer is my super power
   phototitle: Beer is Loris Super Power
-  description: Beer is Lori's super power, and preferrably Coors Lite
+  description: Beer is Loris super power, and preferrably Coors Lite
 - src: "key_west/2021-08-02_key_west_harbor.jpg"
   alt: family with Key West harbor in background
   phototitle: Key West Harbor
