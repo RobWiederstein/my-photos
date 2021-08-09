@@ -125,161 +125,161 @@ resources:
   phototitle: Sloppy Joe's Bar
   description: Because the floor was always wet with melted ice, his patrons taunted Jose (Joe) with running a sloppy place. The place became known fondly as "Sloppy Joe’s".
 - src: "key_west/2021-08-02_southern_most_point.png"
-  alt:
-  phototitle:
-  description:
+  alt: key west beach
+  phototitle: Key West Beach looking toward Cuba
+  description: Duvall Street Pocket Park
 - src: "key_west/2021-08-02_thai_island_01.jpg"
-  alt:
-  phototitle:
+  alt: Thai Island Restaurant
+  phototitle: Thai Island Restaurant
   description:
-- src: "key_west/2021-08-02_thai_island.jpg"
-  alt:
-  phototitle:
-  description:
+- src: "key_west/2021-08-02_thai_island_02.jpg"
+  alt: Meg and Chase
+  phototitle: Meg and Chase
+  description: Meg tried octopus, really
 - src: "key_west/2021-08-02_tomfoolery.jpg"
-  alt:
-  phototitle:
+  alt: tomfoolery
+  phototitle: What tomfoolery looks like
   description:
 - src: "key_west/2021-08-03_bahama_village_01.jpg"
-  alt:
-  phototitle:
+  alt: bahama village market
+  phototitle: Bahama Village Market
   description:
 - src: "key_west/2021-08-03_bahama_village_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Bahama Village Market dining
+  phototitle: Tables at Bahama Market Village
+  description: Our waiters kids live in Chicago
 - src: "key_west/2021-08-03_bahama_village_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Table enjoyed lunch
+  phototitle: Lunch with the family
+  description: Ate lunch after touring Hemmingway museum a couple of blocks away
 - src: "key_west/2021-08-03_bahama_village_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Key West rooster
+  phototitle: Key West rooster
+  description: There were roosters and chickens everywhere
 - src: "key_west/2021-08-03_bookstore.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: bookstore
+  phototitle: Key West Island Bookstore
+  description: Cathy being Cathy!
 - src: "key_west/2021-08-03_golf_cart_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: golf cart
+  phototitle: Golf Cart
+  description: Golf cart from Blue Sky Rentals.  $300 for the day.
 - src: "key_west/2021-08-03_golf_cart_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: golf cart riders
+  phototitle: Golf Cart riders
+  description: Hold on tight if you are on the back!
 - src: "key_west/2021-08-03_green_iguana.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: green iguana
+  phototitle: Green iguana
+  description: They are an invasive species in Key West from further south.  Look for them in Key West cemetary.
 - src: "key_west/2021-08-03_hemmingway_museum_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Hemmingway museum
+  phototitle: Hemmingway Museum
+  description: View from front gate.  Admission was $17--cash only.
 - src: "key_west/2021-08-03_hemmingway_museum_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Meg and Chase
+  phototitle: Meg and Chase on the Hemmingway porch
+  description: The tree in the background is a Royal Poinciana, the official tree of Key West
 - src: "key_west/2021-08-03_hemmingway_museum_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Hemmingway pool house
+  phototitle: Hemmingway Pool House 1
+  description: Hemminway wrote in the mornings in this pool house
 - src: "key_west/2021-08-03_hemmingway_museum_04.jpg"
-  alt:
-  phototitle:
+  alt: Hemmingway Pool House
+  phototitle: Hemminway pool house 2
   description:
 - src: "key_west/2021-08-03_hemmingway_museum_05.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Chase and cat
+  phototitle: Chase makes a friend
+  description: The estate has a pack of polydactyl cats
 - src: "key_west/2021-08-03_hemmingway_museum_06.jpg"
-  alt:
-  phototitle:
+  alt: Cathy and Rob
+  phototitle: Cathy and Rob at Hemmingway Museum
   description:
 - src: "key_west/2021-08-03_hemmingway_museum_07.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: cats sleeping on bed
+  phototitle: Hemminway estate master bedroom
+  description: Cats lounge on the master bed at the estate
 - src: "key_west/2021-08-03_hemmingway_museum_08.jpg"
-  alt:
-  phototitle:
+  alt: Lori and Rob
+  phototitle: Lori and Rob
   description:
 - src: "key_west/2021-08-03_hemmingway_museum_09.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: people on path
+  phototitle: Family walking in Hemingway gardens
+  description: Family is following me down a dead end path.  Cathy is announcing that I am going the wrong way
 - src: "key_west/2021-08-03_hemmingway_museum_10.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: polydactyl cat
+  phototitle: Polydactyl Cat
+  description: There are approximately 60 polydactyl cats on the grounds. Cats normally have five front toes and four back toes. This cat had five back toes.
 - src: "key_west/2021-08-03_lori_and_chase.jpg"
-  alt:
-  phototitle:
+  alt: two people walking
+  phototitle: Lori and Chase out for a walk.
   description:
 - src: "key_west/2021-08-03_shopping.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: walking down sidewalk
+  phototitle: Walking down sidewalk
+  description: We just finished scuba diving and ate dinner at Irish Kevins.  Singer played Miami, My Amy by Keith Whitley.
 - src: "key_west/2021-08-03_southernmost_point.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: southernmost point USA
+  phototitle: Meg and Rob at Southernmost Point
+  description: Meg and I went down early to beat the long lines
 - src: "key_west/2021-08-04_bayfront_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt:  bayfront suites in key west
+  phototitle: Bayfront Suites 1
+  description: Great place to stay.  Water access, pool, grill, big porch, clean, and close, but not too close to Duvall Street.
 - src: "key_west/2021-08-04_bayfront_02.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 2
   description:
 - src: "key_west/2021-08-04_bayfront_03.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle:  Bayfront Suites 3
   description:
 - src: "key_west/2021-08-04_bayfront_04.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 4
   description:
 - src: "key_west/2021-08-04_bayfront_05.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 5
   description:
 - src: "key_west/2021-08-04_bayfront_06.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 6
   description:
 - src: "key_west/2021-08-04_bayfront_07.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 7
   description:
 - src: "key_west/2021-08-04_bayfront_08.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 8
   description:
 - src: "key_west/2021-08-04_bayfront_09.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 9
   description:
 - src: "key_west/2021-08-04_bayfront_10.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 10
   description:
 - src: "key_west/2021-08-04_bayfront_11.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 11
   description:
 - src: "key_west/2021-08-04_bayfront_12.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 12
   description:
 - src: "key_west/2021-08-04_bayfront_13.jpg"
-  alt:
-  phototitle:
+  alt: bayfront suites in key west
+  phototitle: Bayfront Suites 13
   description:
 - src: "key_west/2021-08-04_curled_tail_lizard.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Curly tailed lizard
+  phototitle: Curly tailed lizard
+  description: Another invasive species from the Carribean.  It eats Florida anoles, fruits and flowers.
 - src: "key_west/2021-08-04_garbos_01.jpg"
   alt:
   phototitle:
