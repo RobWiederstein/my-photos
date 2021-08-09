@@ -86,7 +86,7 @@ resources:
   description: Great view but sunny and hot
 - src: "key_west/2021-08-02_ferry_ride_to_07.jpg"
   alt: people playing games on Key West Express
-  phototitle: Lots of game playing at out station
+  phototitle: Lots of game playing at our table
   description: We sat at the top of the stairs on the second floor.  Scattegories was a favorite that morning.
 - src: "key_west/2021-08-02_golf_cart_01.jpg"
   alt: sunset in key west
@@ -281,17 +281,17 @@ resources:
   phototitle: Curly tailed lizard
   description: Another invasive species from the Carribean.  It eats Florida anoles, fruits and flowers.
 - src: "key_west/2021-08-04_garbos_01.jpg"
-  alt:
-  phototitle:
+  alt: restaurant
+  phototitle: Garbos Restaurant 1
   description:
 - src: "key_west/2021-08-04_garbos_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: restaurant
+  phototitle: Garbos Restaurant 2
+  description: Unfortunately, Lori lost this lunch over the side of the diving boat.
 - src: "key_west/2021-08-04_garbos_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: restaurant
+  phototitle: Chase walking
+  description: Chase is doing his best gangster walk
 - src: "key_west/2021-08-04_scuba_01.jpg"
   alt:
   phototitle:
