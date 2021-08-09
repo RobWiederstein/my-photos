@@ -99,7 +99,7 @@ resources:
 - src: "key_west/2021-08-02_key_west_harbor.jpg"
   alt: family with Key West harbor in background
   phototitle: Key West Harbor
-  description: Cayo Hueso is the original Spanish name for the island of Key West.
+  description: The Spanish name for Key West is "Cayo Hueso".
 - src: "key_west/2021-08-02_mallory_square.jpg"
   alt: Mallory Square
   phototitle: Meg at Mallory Square
