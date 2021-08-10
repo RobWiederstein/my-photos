@@ -292,110 +292,110 @@ resources:
   alt: restaurant
   phototitle: Chase walking
   description: Chase is doing his best gangster walk
+- src: "key_west/2021-08-04_garbos_04.jpg"
+  alt: restaurant
+  phototitle: Chase in a hurry
+  description: Our boat departed at 1 pm
 - src: "key_west/2021-08-04_scuba_01.jpg"
-  alt:
-  phototitle:
+  alt: ocean
+  phototitle: Scuba 1
   description:
 - src: "key_west/2021-08-04_scuba_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: ocean
+  phototitle: Scuba 2
+  description: It was really, really hot so Cathy jumped in
 - src: "key_west/2021-08-04_scuba_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: ocean
+  phototitle: Scuba 3
+  description: Chase back in the boat
 - src: "key_west/2021-08-04_scuba_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt:ocean
+  phototitle: Scuba 4
+  description: Meg and Chase enjoying the cool water
 - src: "key_west/2021-08-04_scuba_05.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: ocean
+  phototitle: Scuba 5
+  description: Meg and Chase enjoy boat ride to next dive
 - src: "key_west/2021-08-04_scuba_06.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: ocean
+  phototitle: Scuba 6
+  description: View from the top deck of the boat
 - src: "key_west/2021-08-04_scuba_07.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: ocean
+  phototitle: Scuba 7
+  description: Captain is in the orange shirt
 - src: "key_west/2021-08-04_scuba_08.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: ocean
+  phototitle: Scuba 8
+  description: Chase coming out of the water
 - src: "key_west/2021-08-04_scuba_09.jpg"
-  alt:
-  phototitle:
-  description:
-- src: "key_west/2021-08-04_scuba_10.png"
-  alt:
-  phototitle:
-  description:
+  alt: ocean
+  phototitle: Scuba 9
+  description: Chase is trying not to trip on his fins
 - src: "key_west/2021-08-05_audubon_museum_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 1
+  description: Originally built in 1830 by John H. Geiger
 - src: "key_west/2021-08-05_audubon_museum_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 2
+  description: Audubons famous brown pelican
 - src: "key_west/2021-08-05_audubon_museum_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 3
+  description: Mosquito netting was a necessity for the times
 - src: "key_west/2021-08-05_audubon_museum_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 4
+  description: The third floor contains the Audubon prints
 - src: "key_west/2021-08-05_audubon_museum_05.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 5
+  description: The museum owns the cover of an Octavio edition
 - src: "key_west/2021-08-05_audubon_museum_06.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 6
+  description: Cook house in  back was staffed by slaves
 - src: "key_west/2021-08-05_audubon_museum_07.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 7
+  description: Yum flamingo toungues for dinner!
 - src: "key_west/2021-08-05_audubon_museum_08.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Audubon House and museum
+  phototitle: Audubon House 8
+  description: Two seat outhouse. Freshwater was not available on the island until 1950.
 - src: "key_west/2021-08-05_banyan_tree.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Banyan tree
+  phototitle: Banyan Tree
+  description: Banyan trees grow everywhere on the island.
 - src: "key_west/2021-08-05_cuban_coffee_queen_01.PNG"
-  alt:
-  phototitle:
-  description:
+  alt: Cuban coffee queen
+  phototitle: Cuban Coffee Queen 1
+  description: There was always a long line and for good reason
 - src: "key_west/2021-08-05_cuban_coffee_queen_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: breakfast sandwich
+  phototitle: Cuban Coffee Queen 2
+  description: Chase fueling up for a full day
 - src: "key_west/2021-08-05_custom_house_museum_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Custom House museum
+  phototitle: Custom House Museum 1
+  description: Adjacent to the U.S. Naval base, the Custom House was the site of many significant historical events, most notably the inquiry into the sinking of the USS Maine in Havana harbor in 1898.
 - src: "key_west/2021-08-05_custom_house_museum_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Custom House museum
+  phototitle: Custom House Museum 2
+  description: Contemporary sculpture
 - src: "key_west/2021-08-05_custom_house_museum_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Custom House museum
+  phototitle: Custom House Museum 3
+  description:  The Museums nickname is the "old 91" for the year it was originally build in 1891.
 - src: "key_west/2021-08-05_custom_house_museum_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Custom House museum
+  phototitle: Custom House Museum 4
+  description: Bas relief wood carving by of Key West by Cuban folk artist Mario Sanchez.
 - src: "key_west/2021-08-05_custom_house_museum_05.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Custom House museum
+  phototitle: Custom House Museum 5
+  description: I know my modest art is not good, but it pleases. -- Mario Sanchez
 - src: "key_west/2021-08-05_end_of_road.jpg"
   alt:
   phototitle:
