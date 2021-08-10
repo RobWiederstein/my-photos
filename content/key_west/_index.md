@@ -309,7 +309,7 @@ resources:
   phototitle: Scuba 3
   description: Chase back in the boat
 - src: "key_west/2021-08-04_scuba_04.jpg"
-  alt:ocean
+  alt: ocean
   phototitle: Scuba 4
   description: Meg and Chase enjoying the cool water
 - src: "key_west/2021-08-04_scuba_05.jpg"
