@@ -398,106 +398,106 @@ resources:
   description: I know my modest art is not good, but it pleases. -- Mario Sanchez
 - src: "key_west/2021-08-05_end_of_road.jpg"
   alt:
-  phototitle:
-  description:
+  phototitle: End of US Hwy 1
+  description: The main highway between Miami and Key West
 - src: "key_west/2021-08-05_flower.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Red flowers
+  phototitle: Crown of Thorns or _Euphorbia Milii_
+  description: Native to Madagascar, it is poisonous to domesticated animals.
 - src: "key_west/2021-08-05_green_parrot_bar_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: bar
+  phototitle: Green Parrot Bar 1
+  description: bar and pool table
 - src: "key_west/2021-08-05_green_parrot_bar_02.jpg"
   alt:
-  phototitle:
-  description:
+  phototitle: Green Parrot Bar 2
+  description: bar and pool table
 - src: "key_west/2021-08-05_green_parrot_bar_03.jpg"
   alt:
-  phototitle:
-  description:
+  phototitle: Green Parrot Bar 3
+  description: bar and pool table
 - src: "key_west/2021-08-05_green_parrot_bar_04.jpg"
   alt:
-  phototitle:
-  description:
+  phototitle: Green Parrot Bar 4
+  description: bar and pool table
 - src: "key_west/2021-08-05_green_parrot_bar_05.jpg"
   alt:
-  phototitle:
-  description:
+  phototitle: Green Parrot Bar 5
+  description: bar and pool table
 - src: "key_west/2021-08-05_green_parrot_bar_06.jpg"
   alt:
-  phototitle:
-  description:
+  phototitle: Green Parrot Bar 6
+  description: bar and pool table
 - src: "key_west/2021-08-05_island_restaurant_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Island Restaurant and Brewery
+  phototitle: Island Restaurant and Brewery 1
+  description: Pan American World Airways was founded here and flew between Havana, Cuba, and Key West.
 - src: "key_west/2021-08-05_island_restaurant_02.jpg"
-  alt:
-  phototitle:
+  alt: Island Restaurant and Brewery
+  phototitle: Island Restaurant and Brewery 2
   description:
 - src: "key_west/2021-08-05_island_restaurant_03.jpg"
-  alt:
-  phototitle:
+  alt: Island Restaurant and Brewery 3
+  phototitle: Island Restaurant and Brewery
   description:
 - src: "key_west/2021-08-05_island_restaurant_04.jpg"
-  alt:
-  phototitle:
+  alt: Island Restaurant and Brewery 4
+  phototitle: Island Restaurant and Brewery
   description:
 - src: "key_west/2021-08-05_kapok_tree_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: kapok tree
+  phototitle: Kapok tree or _Ceiba Pentandra_
+  description: Native to Mexico, the Carribean and South America
 - src: "key_west/2021-08-05_kapok_tree_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: kapok tree 2
+  phototitle: Kapok Tree 2
+  description: The tree sits on the grounds of the Monroe County Courthouse in Key West.
 - src: "key_west/2021-08-05_kapok_tree_03.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: kapok tree
+  phototitle: Kapok Tree 3
+  description: Kapok trees are among the largest trees and have "buttress" roots for stability.
 - src: "key_west/2021-08-05_kapok_tree_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: kapok tree
+  phototitle:  Kapok Tree 4
+  description: A crew of derelict tourists
 - src: "key_west/2021-08-05_key_west_harbor_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: key west harbor
+  phototitle: Key West Harbor
+  description: Behind is the place where cruise ships dock
 - src: "key_west/2021-08-05_shops_at_mallory_square.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: Shops at Mallory Square
+  phototitle: Naval Depot
+  description: Originally completed in 1861
 - src: "key_west/2021-08-05-rob_back_from_museums.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: mexican cafe
+  phototitle: Old Town Mexican Cafe
+  description: Long walk to find everybody
 - src: "key_west/2021-08-05-sangria_on_duval_street.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: sangria toast
+  phototitle: Sangria Toast
+  description: Happy 52nd Birthday to Lori!
 - src: "key_west/2021-08-06_crows_nest_01.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: crows nest restaurant
+  phototitle: Crows Nest Restaurant 1
+  description: Last dinner before heading home
 - src: "key_west/2021-08-06_crows_nest_02.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: crows nest restaurant
+  phototitle: Crows Nest Restaurant 2
+  description: Pan seared sole
 - src: "key_west/2021-08-06_crows_nest_03.jpg"
-  alt:
-  phototitle:
+  alt: crows nest restaurant
+  phototitle: Crows Nest Restaurant 3
   description:
 - src: "key_west/2021-08-06_crows_nest_04.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: crows nest restaurant
+  phototitle: Crows Nest Restaurant 4
+  description: double espresso
 - src: "key_west/2021-08-06_crows_nest_05.jpg"
-  alt:
-  phototitle:
+  alt: crows nest restaurant
+  phototitle: Crows Nest Restaurant
   description:
 - src: "key_west/2021-08-06_crows_nest_06.jpg"
-  alt:
-  phototitle:
-  description:
+  alt: crows nest restaurant
+  phototitle: Crows Nest Restaurant
+  description: This concludes an awesome trip.  Thanks Lori for your hospitality and hosting!
 ---
